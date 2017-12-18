@@ -1,2 +1,2 @@
 # He
-wget http://www.gigsgigscloud.com/cn/downloads/ssr.sh && bash ssr.sh
+wget https://raw.githubusercontent.com/zhsama4396/He/master/ssr.sh && bash ssr.sh
