@@ -1,2 +1,3 @@
-# He
+# 他改变了...
 wget https://raw.githubusercontent.com/zhsama4396/He/master/ssr.sh && bash ssr.sh
+# /home目录下安装
